@@ -21,11 +21,11 @@
 
 ---
 
-## Research
+### Research
 
-Neuroscience · EEG · TMS-EEG · fNIRS · brain–computer interfaces · signal processing
+Neuroscience · EEG · TMS-EEG · fNIRS · signal processing · brain–computer interfaces ·
 
-## Tools
+### Tools
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
